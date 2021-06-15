@@ -1,33 +1,7 @@
-# reading-notes-repo :smile:
+# about my self 
+my name is abdulraheem i have 7 years of experience 5 of them in QA and the other two in cyber security so i quit from my current work because i would like to change the career path, it's nice to be here.
 
-**groth mindset is not to be a normal person that folow normal rules that do normal things**
-
-**try till the end**
-
-***dont_give_up_at_all***
-
-~~i will fail~~
-
-~~instead ** i will do it **
-
---to do list 
-* i will pass 
-*  i will be abnormal 
--- i did it
-
-**did it again and again**
-
-~~This was mistaken text~~
-
-
-### ordered list   
-1-ahmad  
-2-anas  
-3-ali  
-
-### unordered list
-- ahmad
-- ali
-- anas
-
- ![groth_mindset](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
+# Table of Contents
+1. [read01](https://asaqa988.github.io/reading-notes-repo/read01)
+2. [read02](https://asaqa988.github.io/reading-notes-repo/read02)
+3. [Growth_mindset](https://asaqa988.github.io/reading-notes-repo/Growth_mindset)
