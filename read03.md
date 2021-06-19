@@ -2,7 +2,11 @@
 # The Definitive Guide: How To Create Your First Wireframe
 ## An introduction to wireframing
 
+### 
+
 ![Wireframe](https://miro.medium.com/max/1600/1*ZvtdfRPAdFpf2av_bvqE6w.png "Logo Title Text 1")
+
+
 
 * What is a wireframe, and why do UX designers use them?
 Wireframing is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site, based on the user research already performed by the UX design team.
