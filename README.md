@@ -9,4 +9,4 @@ my name is abdulraheem i have 7 years of experience 5 of them in QA and the othe
 5. [read05](https://asaqa988.github.io/reading-notes-repo/read05)
 6. [read06](https://asaqa988.github.io/reading-notes-repo/read06)
 7. [read07](https://asaqa988.github.io/reading-notes-repo/read07)
-8. [Growth_mindset](http7://asaqa988.github.io/reading-notes-repo/Growth_mindset)
+9. [Growth_mindset](http7://asaqa988.github.io/reading-notes-repo/Growth_mindset)
